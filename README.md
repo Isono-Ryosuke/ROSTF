@@ -21,12 +21,14 @@ if you use GPU, please set ```params.use_GPU = 1``` in the line15 of ```main.m``
 If you use this code, please cite the following paper:
 
 ```
-@misc{isono2023robust,
-      title={Robust Spatiotemporal Fusion of Satellite Images: A Constrained Convex Optimization Approach}, 
-      author={Ryosuke Isono and Kazuki Naganuma and Shunsuke Ono},
-      year={2023},
-      eprint={2308.00500},
-      archivePrefix={arXiv},
-      primaryClass={eess.SP}
-}
+@ARTICLE{10494505,
+  author={Isono, Ryosuke and Naganuma, Kazuki and Ono, Shunsuke},
+  journal={IEEE Transactions on Geoscience and Remote Sensing}, 
+  title={Robust Spatiotemporal Fusion of Satellite Images: A Constrained Convex Optimization Approach}, 
+  year={2024},
+  volume={62},
+  number={},
+  pages={1-16},
+  doi={10.1109/TGRS.2024.3385917}}
+
 ```
